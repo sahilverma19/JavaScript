@@ -5,4 +5,4 @@ let accountPassword="1918912"
 accountId=1001
 accountEmail="sahilverma220@gmail.com"
 accountPassword="@viratkohli18abd17"
-console.table([accountId,accountPassword,accoutEmail] );
+console.table([accountId,accountPassword,accoutEmail]) 
